@@ -1,6 +1,6 @@
 # CalorieCounter
 
-A personal projects to manage the daily nutritions and calories intake.
+A personal Android app to manage the daily nutritions and calories intake.
 
 Features:
 - [ ] Search the foods/reciepes to add a meal or a consumed calorie\n
